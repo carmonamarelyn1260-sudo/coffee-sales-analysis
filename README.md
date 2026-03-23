@@ -1,7 +1,9 @@
 Coffee Shop Sales Analysis
+
 Sales analysis dashboard for a coffee shop using Power BI and Excel based on 149,000+ transactions.
 
 Project Overview
+
 This project analyzes transactional sales data to understand customer purchasing behavior and product performance in a coffee shop.
 
 The dashboard explores:
